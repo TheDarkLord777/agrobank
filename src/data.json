@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "coverRequestId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "nciAccount": "string",
+      "senderAccount": "string",
+      "loanId": "string",
+      "cycleId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "holdAmount": 0,
+      "coveredAmount": 0,
+      "pcType": "UZCARD",
+      "branch": "string",
+      "status": "NEW",
+      "createdBy": "string",
+      "createdDate": "2024-03-15T07:30:16.279Z",
+      "lastModifiedBy": "string",
+      "lastModifiedDate": "2024-03-15T07:30:16.279Z"
+    }
+  ],
+  "message": "string",
+  "success": true,
+  "code": "string",
+  "page": 0,
+  "totalSize": 0
+}
