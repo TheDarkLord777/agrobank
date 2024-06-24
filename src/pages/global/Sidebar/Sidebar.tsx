@@ -71,8 +71,8 @@ const Sidebar: FC<States> = ({ setLayoutState }) => {
         <S.Block1 $issidebarlarge={issidebarlarge}>
           <SidebarIcon
             issidebarlarge={issidebarlarge}
-            srcLarge="/../src/assets/images/Agrobank.png"
-            srcSmall="/../src/assets/icons/SmallVersionAgroIcon.png"
+            srcLarge="../../../assets/images/Agrobank.png"
+            srcSmall="../../../assets//icons/SmallVersionAgroIcon.png"
           />
         </S.Block1>
         <S.Expand
